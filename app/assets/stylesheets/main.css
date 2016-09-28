@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.item {
+  font-size: 3em;
+  background: tomato;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  line-height: 150px;
+  margin: 5px;
+}
